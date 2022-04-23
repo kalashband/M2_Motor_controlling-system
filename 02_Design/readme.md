@@ -1,6 +1,6 @@
-block Diagram
+## Block Diagram
 
-data flow diagram
 
-flowchart
+
+## Data flow chart
 
