@@ -47,10 +47,14 @@
 
  |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |   ULN2803 driver   |  Implemented  |
+|       |             |                                |
 
 ## Low Level Requirements:
 
 |  ID   | Description | Status (Implemented/ In Future) |
 | ----- | ----------- | ------------------------------- |
 | LLR 1 |    DC Motor | Implemented |
+
+Conclusion
+
+Controlling of Dc motor using microchip atmega328 have been implemented successfully and ready to use in differrent appliction.
