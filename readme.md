@@ -14,11 +14,9 @@
 
 ## PROCEDURE
 
-  * Start with wireing dc motor and Atmega328
-  * Only four wires are required to control the stepper motor. 
-  * Two common wires of stepper motor connected to 5V supply.
-  * ULN2803 driver is used to the driving stepper motor.
-  * ATmega32 to rotate the stepper motor 360° clockwise by half step sequence and 360° anticlockwise by full step sequence.
+  * Start with wiring dc motor and Atmega328
+  * Two common wires of  motor connected to  avr and with switch.
+  * ATmega328 to rotate the motor 360 as a switch complete the circuit.
   
 ## TESTING AND CODING
  * You have to use C compiler with MINGGW(latest or the previous versions).
